@@ -1,4 +1,4 @@
-# Docs.dev Beta Testing: Plain Language Project
+# Plain Language Compliance Project for Docs.dev Beta Testing
 
 **Date:** May 4, 2025 
 
@@ -7,15 +7,14 @@
 **Repository:** [https://github.com/vagimeli/plain-language-compliance-project](https://github.com/vagimeli/plain-language-compliance-project)
 
 ## Overview
-This repository tests Docs.dev, a tool that creates and checks documents. The project focuses on plain language, following the Plain Writing Act of 2010. It uses a 6-hour plan to see how well Docs.dev makes clear, simple documents for everyday users. The repository has code, a user guide, a checklist, a fixed guide, and settings for plain language.
+This repository supports a 6-hour beta testing project for Docs.dev, an AI-assisted documentation tool, with a focus on plain language compliance per the Plain Writing Act of 2010. It includes a Python codebase, a non-compliant user guide, a compliance checklist, and a configuration file to test Docs.dev’s AI generation, auditing, and editing capabilities from a technical writer’s perspective.
 
 ## Purpose
-This project checks if Docs.dev can:
-
-- Make clear documents from datasync.py code.
-- Find and fix plain language problems in user-guide-original.md, like complex words or long sentences.
-- Edit documents easily using Markdown and GitHub.
-- Use Dev-Docs.JSON to create plain language documents.
+The project evaluates Docs.dev’s ability to:
+- Generate plain language-compliant documentation from `datasync.py`.
+- Audit `user-guide-original.md` for clarity, active voice, and readability.
+- Support Markdown editing and GitHub workflows for compliance revisions.
+- Customize AI output via `Dev-Docs.JSON` for plain language standards.
 
 ## Repository Structure
 ```
@@ -32,23 +31,21 @@ docs-dev-test-repo/
 ```
 
 ## Usage
-To test Docs.dev with this repository:
-
-- Copy the repository: git clone https://github.com/your-username/docs-dev-test-repo.git
-- Add the Docs.dev GitHub App (see https://learn.docs.dev/docs).
-- Use Docs.dev to:
-- Create documents for datasync.py using Dev-Docs.JSON.
-- Check user-guide-original.md with plain-language-checklist.md.
-- Edit documents to match user-guide-revised.md and test GitHub updates.
-
-Write results in docs/feedback-report.md and add issues in the Issues tab.
+To use this repository for Docs.dev testing:
+1. Clone the repository: `git clone https://github.com/your-username/plain-language-compliance-project.git`
+2. Install the Docs.dev GitHub App (follow https://learn.docs.dev/docs).
+3. Use Docs.dev to:
+   - Generate documentation for `datasync.py` using `Dev-Docs.JSON`.
+   - Audit `user-guide-original.md` with `plain-language-checklist.md`.
+   - Edit docs and test pull request workflows.
+4. Document findings in `docs/feedback-report.md` and the [Issues tab](https://github.com/your-username/plain-language-compliance-project/issues).
 
 ## Testing Scenarios
 
-- Create Documents: Make documents for datasync.py. Check if they use simple words, active voice, and are easy to read (Grade 8 level).
-- Check Documents: Look at user-guide-original.md for problems like jargon or passive voice. Compare it to user-guide-revised.md.
-- Edit Documents: Fix user-guide-original.md in Docs.dev’s editor to follow plain-language-checklist.md.
-- Share Feedback: Add bugs (e.g., “Missed complex word ‘utilize’”) or ideas (e.g., “Add a readability score”) to Issues.
+- **AI Generation**: Generate docs for `datasync.py`, checking for plain language compliance (e.g., active voice, no jargon).
+- **Auditing**: Audit `user-guide-original.md` for issues like passive voice or complex terms.
+- **Editing**: Revise docs in Docs.dev’s editor, ensuring compliance with `plain-language-checklist.md`.
+- **Feedback**: File issues for bugs (e.g., “AI missed passive voice”) or suggestions (e.g., “Add readability score”).
 
 ## Notes
 
