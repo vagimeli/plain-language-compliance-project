@@ -2,7 +2,7 @@
 
 **Date:** May 4, 2025 Author: [Melissa Vagi, Founder & Director of AI Content Strategy, Write-Brained Editorial Services LLC](https://www.writebrainedits.com/about)
 
-**Repository:** [https://github.com/your-username/docs-dev-test-repo](https://github.com/your-username/docs-dev-test-repo)
+**Repository:** [https://github.com/vagimeli/plain-language-compliance-project](https://github.com/vagimeli/plain-language-compliance-project)
 
 ## Overview
 This repository tests Docs.dev, a tool that creates and checks documents. The project focuses on plain language, following the Plain Writing Act of 2010. It uses a 6-hour plan to see how well Docs.dev makes clear, simple documents for everyday users. The repository has code, a user guide, a checklist, a fixed guide, and settings for plain language.
