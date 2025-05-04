@@ -1,0 +1,3 @@
+{
+  "prompt": "Generate Markdown documentation for Python functions and classes in a plain language style compliant with the Plain Writing Act of 2010. Use clear, concise language, active voice, and common words. Include: a brief description, parameter details (name, type, purpose), return value, and a simple usage example. Organize with headings and bullet points."
+}
