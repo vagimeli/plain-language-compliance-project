@@ -1,6 +1,8 @@
 # Docs.dev Beta Testing: Plain Language Project
 
-**Date:** May 4, 2025 Author: [Melissa Vagi, Founder & Director of AI Content Strategy, Write-Brained Editorial Services LLC](https://www.writebrainedits.com/about)
+**Date:** May 4, 2025 
+
+**Author:** Melissa Vagi, Founder & Director of AI Content Strategy, [Write-Brained Editorial Services LLC](https://www.writebrainedits.com/about)
 
 **Repository:** [https://github.com/vagimeli/plain-language-compliance-project](https://github.com/vagimeli/plain-language-compliance-project)
 
