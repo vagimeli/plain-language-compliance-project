@@ -4,7 +4,7 @@
 
 **Tester:** Melissa Vagi, Founder, Write-Brained Editorial Services LLC 
 
-**Repository:** [https://github.com/vagimeli/docs-dev-test-repoTesting](https://github.com/vagimeli/docs-dev-test-repoTesting)
+**Repository:** [https://github.com/vagimeli/plain-language-compliance-project](https://github.com/vagimeli/plain-language-compliance-project)
 
 **Scope:** 6-hour beta test of Docs.dev’s AI content creation and usability for novice users and technical writers without software expertise, with a focus on plain language compliance.
 
