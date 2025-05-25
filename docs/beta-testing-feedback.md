@@ -2,7 +2,7 @@
 
 ## Tester Information
 
-**Name:** Melissa Vagi **Date of Testing:** 05/18 and 25 **Testing Environment:** Chrome, Windows 11, Login via GitHub, Testing repo: <https://github.com/vagimeli/plain-language-compliance-project>, [Docs.dev](http://Docs.dev) app: <https://app.docs.dev/ai-chat>
+**Name:** Melissa Vagi **Date of Testing:** 05/18/25 and 25 **Testing Environment:** Chrome, Windows 11, Login via GitHub, Testing repo: <https://github.com/vagimeli/plain-language-compliance-project>, [Docs.dev](http://Docs.dev) app: <https://app.docs.dev/ai-chat>
 
 ## General Impressions
 
