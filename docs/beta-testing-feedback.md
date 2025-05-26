@@ -42,7 +42,7 @@
 
 **AI-Assisted Features**
 
-* Was AI assistance relevant and helpful? **Yes. The AI assistance was particularly effective at expanding on initial prompts, automating pull request creation, and detecting when code changes necessitated documentation updates. This proactive approach helps maintain documentation currency without manual monitoring.**
+* Was AI assistance relevant and helpful? **Yes. The AI assistance was particularly effective at expanding on initial prompts, automating pull request creation, and detecting when code changes required documentation updates. This proactive approach helps maintain documentation currency without manual monitoring.**
 
 * Did AI-generated content match expected technical standards? **Yes. The initial drafts included the foundational information at a high level. This approach improved my writing by starting from a draft instead of a blank page.**
 
