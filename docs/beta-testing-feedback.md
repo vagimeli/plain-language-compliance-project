@@ -28,7 +28,7 @@
 
 * Did markdown editing work as expected? **Yes. I didn’t need to change the Markdown format.**
 
-* Was the preview feature reliable and accurate?
+* Was the preview feature reliable and accurate? **Yes.**
 
 * Were formatting tools intuitive and responsive?
 
