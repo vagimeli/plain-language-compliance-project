@@ -30,7 +30,7 @@
 
 * Was the preview feature reliable and accurate? **Yes.**
 
-* Were formatting tools intuitive and responsive?
+* Were formatting tools intuitive and responsive? **Yes.**
 
 **Collaboration & GitHub Integration**
 
