@@ -38,7 +38,7 @@
 
 * Were version control tools effective? **Yes. I found the one-click “Generate changelog” feature incredibly helpful for quickly summarizing file changes in the app. Instead of having to log into GitHub and search through the repo to check the changelog, this app eliminates those manual processes.**
 
-* Did change tracking and rollback features function correctly? Yes, change tracking clearly highlighted modifications and the rollback feature allowed me to revert to previous versions without any issues or data loss.
+* Did change tracking and rollback features function correctly? Y**es, change tracking clearly highlighted modifications and the rollback feature allowed me to revert to previous versions without any issues or data loss.**
 
 **AI-Assisted Features**
 
