@@ -26,7 +26,7 @@
 
 **Live Web Editor**
 
-* Did markdown editing work as expected? **Yes. I**
+* Did markdown editing work as expected? **Yes. I test both the MArkdown editor and Rich text editor.**
 
 * Was the preview feature reliable and accurate? **Yes.**
 
