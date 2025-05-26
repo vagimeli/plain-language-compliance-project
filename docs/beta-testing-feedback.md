@@ -38,7 +38,7 @@
 
 * Were version control tools effective? **Yes. I found the one-click “Generate changelog” feature incredibly helpful for quickly summarizing file changes in the app. Instead of having to log into GitHub and search through the repo to check the changelog, this app eliminates those manual processes. The autosave to GitHub feature is particularly smart---it automatically commits changes without disrupting my writing flow.**
 
-* Did change tracking and rollback features function correctly?**&#x20;These features aren't currently available in the platform, but they would be valuable additions - especially for teams managing complex documentation workflows where the ability to track specific changes and revert to previous versions would enhance collaboration and reduce risk of content loss.**
+* Did change tracking and rollback features function correctly?**&#x20;I didn't see these features aren't currently available in the platform, but they would be valuable additions - especially for teams managing complex documentation workflows where the ability to track specific changes and revert to previous versions would enhance collaboration and reduce risk of content loss.**
 
 **AI-Assisted Features**
 
