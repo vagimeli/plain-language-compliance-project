@@ -36,7 +36,7 @@
 
 * Was syncing with the private GitHub repo seamless? **Yes. The one-click buttons helped me choose the repositories I wanted to link with the&#x20;**[**Docs.dev**](http://Docs.dev)**&#x20;app. I linked both a private repository and a public one. These selections were completed in seconds.**
 
-* Were version control tools effective? **Yes. I found the one-click “Generate changelog” feature incredibly helpful for quickly summarizing file changes in the app. Instead of having to log into GitHub and search through the repo to check the changelog, this app eliminates those manual processes.&#x20;**&#x54;he autosave to GitHub feature is particularly smart - it automatically commits changes without disrupting my writing flow.
+* Were version control tools effective? **Yes. I found the one-click “Generate changelog” feature incredibly helpful for quickly summarizing file changes in the app. Instead of having to log into GitHub and search through the repo to check the changelog, this app eliminates those manual processes. The autosave to GitHub feature is particularly smart - it automatically commits changes without disrupting my writing flow.**
 
 * Did change tracking and rollback features function correctly? Y**es, change tracking clearly highlighted modifications and the rollback feature allowed me to revert to previous versions without any issues or data loss.**
 
