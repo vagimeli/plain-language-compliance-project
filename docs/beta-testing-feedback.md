@@ -12,7 +12,7 @@
 
 * Did the onboarding instructions offer sufficient guidance? **Yes, I followed the path for users with documentation. The ability to establish a new documentation repository is beneficial for individuals who lack an existing repository for connection. It serves as an excellent resource for those who are new to open-source documentation and the concept of documentation as code. The Quickstart guide is straightforward and uses simple language, ensuring that getting started requires minimal effort.**
 
-* Was the dashboard easy to navigate? **Yes. Below is a screenshot of my UI view.**
+* Was the dashboard easy to navigate? **Yes.**
 
 **Overall User Experience:**
 
