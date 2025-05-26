@@ -68,7 +68,7 @@
 
 **Error Handling & Bugs**
 
-* Were error messages clear and helpful? **Yes, I received an error message about not connecting my docs repo to the&#x20;**[**Docs.dev**](http://Docs.dev)**&#x20;app. I missed a step in the connection process, but resolved it in a few seconds.**
+* Were error messages clear and helpful? **Yes, I received an error message about not connecting my docs repo to the&#x20;**[**Docs.dev**](http://Docs.dev)**&#x20;app. I missed a step in the connection process but resolved it in a few seconds.**
 
 * Did any unexpected behaviors occur? **No.**
 
