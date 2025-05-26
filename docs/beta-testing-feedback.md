@@ -26,7 +26,7 @@
 
 **Live Web Editor**
 
-* Did markdown editing work as expected? **Yes. I didn’t need to change the Markdown format.**
+* Did markdown editing work as expected? **Yes. I**
 
 * Was the preview feature reliable and accurate? **Yes.**
 
