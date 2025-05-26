@@ -26,7 +26,7 @@
 
 **Live Web Editor**
 
-* Did markdown editing work as expected? **Yes. I test both the Markdown editor and Rich text editor. For writers unfamiliar with MArkdown, the rich text editor functions similar to word processing formatting,**
+* Did markdown editing work as expected? **Yes. I test both the Markdown editor and Rich text editor. For writers unfamiliar with MArkdown, the rich text editor functions similar to word processing formatting, e.g., crtl**
 
 * Was the preview feature reliable and accurate? **Yes.**
 
