@@ -48,7 +48,9 @@
 
 * Any incorrect or misleading suggestions? **No. I used the AI assistant to generate the first drafts of the project overview and get started documents.**
 
-* **Did the platform handle natural language appropriately? Yes.** As someone who specializes in plain language compliance for federal agencies, I was impressed by how naturally the platform processed and presented content. The AI understood context well - when I asked it to simplify technical jargon, it maintained accuracy while making content more accessible. The voice felt conversational rather than robotic, which is crucial when you're working with subject matter experts who might be intimidated by overly technical writing tools.
+* **Did the text-to-speech feature work effectively?**
+
+  **Yes, the read-aloud functionality was surprisingly natural and human-like rather than robotic. It correctly handled punctuation pauses and used proper questioning intonation for headings like "Was AI assistance relevant and helpful?" The natural pacing made it easy to catch errors during document review, and it handled technical terminology without stumbling over complex words or acronyms - which is particularly valuable for accessibility compliance with my government clients.**
 
 **Code Context & GitHub App**
 
